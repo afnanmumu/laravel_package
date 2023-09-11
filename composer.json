@@ -1,0 +1,15 @@
+{
+    "name": "afnan/math",
+    "autoload": {
+        "psr-4": {
+            "Afnan\\Math\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "afnanmumu",
+            "email": "afnanalauddin30@gmail.com"
+        }
+    ],
+    "require": {}
+}
