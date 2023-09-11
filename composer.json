@@ -1,5 +1,5 @@
 {
-    "name": "afnan/math",
+    "name": "afnanmumu/math",
     "autoload": {
         "psr-4": {
             "Afnan\\Math\\": "src/"
